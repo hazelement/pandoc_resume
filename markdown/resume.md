@@ -1,100 +1,86 @@
-Johnny Coder
+Harry Zheng
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <harry.zheng@outlook.com> • +1(403)910829 • Calgary, Alberta, Canada
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2009 - 2014
+:   **BSc, Mechanical Engineering**, University of Calgary
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Related Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2016 - Now
+:	**Start-up IT company**, Android and backend developer, Calgary, Alberta
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Android Java, Python, Flask, PostgresSQL, SQLAlchemy, docker, Apache HTTP, Nginx**
 
-* First item
+Android app development, backend application development, database support with multiple rounds of pilot and beta tests with hundreds of users.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Develop Android app for company's next generation advertisement platform
+	* User data AES encryption developed in native Android. 
+	* Device IMEI based user/email registration
+	* GPS tracking
+	* User phone interaction capture such as picking up/putting down phone, phone taken out/put into pocket and etc.
+	* User ad interaction tracking to provide feedback for advertisers.
+	* Nightly user side ad content refreshing
+* Develop backend application for Android app using Python Flask, Apache HTTP.
+* Support database developer to build and maintain PostgresSQL database
 
-**That Other Job You Had**
+Web advertisement analytic portal backend development.
 
-Also with a short description.
+* Design and develop backend python library to provide real time advertisement user data for web advertisement analytics portal.
+* Process user behaviour and ad performance data to generate advertisement analytic report.
 
-Technical Experience
+Video analysis engine backend development.
+
+* Design and developed python library to support machine learning analysis on video files and web front end data presentation.
+	* SQLAlchemy and PostgresSQL
+	* ML result data noise handling using low-pass filter and moving average smoothing.
+
+* Create docker files and scripts to enable containerization and easy deployment on web servers and demo computers.
+	* Nginx, docker
+
+Facial Recognition Android app.
+
+* Integrate dlib/OpenCV facial recognition into Android app. 
+
+Other Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+2014 - 2016
+:	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**C# .NET, WPF, Microsoft Access Database**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Developed analysis result processing using C# to stream line engineering and result presentation.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+* Piping stress analysis.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+OneBus
+:   Maps POI search optimized for bus riders. https://github.com/hazelement/OneBus. 
+**Python, HTML, CSS, JS, Swift**
+    * Consumes GTFS data.
+    * Geo-location based searching algorithm.
+    * Web and iOS based front end. 
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Interests
+----------------------------------------
+* Machine learning and artificial intelligence
+* Blockchain technology, such as bitcoin and ethereum.
+* Photography, ping-pong, outdoor hiking and camping
 
-Extra Section, Call it Whatever You Want
+Software and OS
 ----------------------------------------
 
-* Human Languages:
+* Android Studio, PyCharm, MS Studio.
+* MacOS, Ubuntu, CentOS, Windows.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
