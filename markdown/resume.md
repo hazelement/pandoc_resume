@@ -19,7 +19,7 @@ Related Experience
 2016 - Now
 :	**Start-up IT company**, Android and backend developer, Calgary, Alberta
 
-**Android Java, Python, Flask, PostgreSQL, SQLAlchemy, docker, Apache HTTP, Nginx**
+**Android Java, Python, Flask, PostgreSQL, SQLAlchemy, docker, Apache HTTP, Nginx, OpenCV, Facial Recognition, Object Detection**
 
 Android app development, backend application development, database support with multiple rounds of pilot and beta tests with hundreds of users.
 
@@ -43,7 +43,7 @@ Backend API stress test
 * Design different stress test scenarios for phone backend API.
 * Use python locustio to develop and perform stress tests.
 
-Video analysis engine backend development.
+Video analysis engine backend development
 
 * Design and developed python library to support machine learning analysis on video files and web front end data presentation.
 	* SQLAlchemy and PostgreSQL
@@ -52,9 +52,21 @@ Video analysis engine backend development.
 * Create docker files and scripts to enable containerization and easy deployment on web servers and demo computers.
 	* Nginx, docker
 
-Facial Recognition Android app.
+Facial Recognition Android app
 
 * Integrate dlib/OpenCV facial recognition into Android app.
+
+Content Filtering Proxy Service
+
+* Add URL filtering ICAP service to Squid proxy
+* URL filtering using image analysis and text analysis to block NSFW content
+
+Intelligence IP Camera Surveillance System 
+* Add intelligence to existing IP camera surveillance system
+* Performs realtime facial recognition and object recognition on IP Camera RTSP feed. 
+* Using websocket to stream live recognition results to client
+* Live stream broadcast service to receive IP Camera RTSP feed from client’s local network
+
 
 Other Experience
 --------------------

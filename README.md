@@ -52,3 +52,7 @@ executable, leading to errors like `Cannot find context.lua` or similar. It has 
 that running `mtxrun --generate`, (as suggested at
 https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem), can fix the
 issue.
+
+### Create using docker
+
+Make sure resume is under `markdown` folder. Simply run this command, `docker-compose up`. Results should be saved in output folder.  
