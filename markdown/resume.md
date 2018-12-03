@@ -13,13 +13,30 @@ Education
 2009 - 2014
 :   **BSc, Mechanical Engineering**, University of Calgary
 
+Skills
+------
+Full stack skill-set with a concentration on back-end engineering
+
+* Architectural Pattern: Model–view–viewmodel (MVVM), Repository Pattern
+* Methodology: Object-Oriented Programming, Agile, Rapid Application Development
+* Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
+* Machine Learning: Facial Recognition, Object Detection
+
+Tools
+-----
+
+* Framework: Flask, Django, SQLAlchemy, dlib, Yolo, mxnet
+* Backend software: docker, Apache HTTP, Nginx, MySQL, PostgresSQL
+* IDE: PyCharm, Android Studio, XCode
+* OS: OSX, Linux (ubuntu, Centos), Windows
+
 Related Experience
 ----------
 
 2016 - Now
 :	**Start-up IT company**, Android and backend developer, Calgary, Alberta
 
-**Android Java, Python, Flask, PostgreSQL, SQLAlchemy, docker, Apache HTTP, Nginx, OpenCV, Facial Recognition, Object Detection**
+**Android Java, Python, Flask, Django, PostgreSQL, SQLAlchemy, docker, Apache HTTP, Nginx, OpenCV, Facial Recognition, Object Detection**
 
 Android app development, backend application development, database support with multiple rounds of pilot and beta tests with hundreds of users.
 
@@ -62,6 +79,7 @@ Content Filtering Proxy Service
 * URL filtering using image analysis and text analysis to block NSFW content
 
 Intelligence IP Camera Surveillance System 
+
 * Add intelligence to existing IP camera surveillance system
 * Performs realtime facial recognition and object recognition on IP Camera RTSP feed. 
 * Using websocket to stream live recognition results to client
