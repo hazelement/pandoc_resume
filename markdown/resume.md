@@ -55,11 +55,6 @@ Related Experience
 * Design and develop backend python library to provide real time advertisement user data for web advertisement analytics portal.
 * Process user behavior and ad performance data to generate advertisement analytic report.
 
-*Backend API stress test*
-
-* Design different stress test scenarios for phone backend API.
-* Use python locustio to develop and perform stress tests.
-
 *Video analysis engine backend development*
 
 * Design and developed python library to support machine learning analysis on video files and web front end data presentation.
@@ -68,10 +63,6 @@ Related Experience
 
 * Create docker files and scripts to enable containerization and easy deployment on web servers and demo computers.
 	* Nginx, docker
-
-*Facial Recognition Android app*
-
-* Integrate dlib/OpenCV facial recognition into Android app.
 
 *Content Filtering Proxy Service*
 
