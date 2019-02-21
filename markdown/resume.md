@@ -4,6 +4,8 @@ Harry Zheng
 ----
 
 > <harry.zheng@outlook.com> • (403)918-0829 • Calgary, Alberta, Canada
+> 
+> https://github.com/hazelement
 
 ----
 
