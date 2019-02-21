@@ -15,7 +15,6 @@ Education
 
 Skills
 ------
-Full stack skill-set with a concentration on back-end engineering
 
 * Architectural Pattern: Model–view–viewmodel (MVVM), Repository Pattern
 * Methodology: Object-Oriented Programming, Agile, Rapid Application Development
@@ -25,57 +24,51 @@ Full stack skill-set with a concentration on back-end engineering
 Tools
 -----
 
-* Framework: Flask, Django, SQLAlchemy, dlib, Yolo, mxnet
-* Backend software: docker, Apache HTTP, Nginx, MySQL, PostgresSQL
-* IDE: PyCharm, Android Studio, XCode
+* Framework: Flask, Django, SQLAlchemy
+* Backend software: docker, Apache HTTP, NGINX, MySQL, PostgresSQL, Let's Encrypt
+* IDE: PyCharm, Android Studio, XCode, VSCode
 * OS: OSX, Linux (ubuntu, Centos), Windows
+* Machine learning tools: pandas, sklearn, YoloV3, Monet, dlib, OpenCV, tensorflow
 
 Related Experience
 ----------
 
 2016 - Now
-:	**Start-up IT company**, Android and backend developer, Calgary, Alberta
+:	**Startup company**, software engineer, Calgary, Alberta
 
-**Android Java, Python, Flask, Django, PostgreSQL, SQLAlchemy, docker, Apache HTTP, Nginx, OpenCV, Facial Recognition, Object Detection**
+*Advertisement Android app and backend*
 
-*Android app development, backend application development, database support with multiple rounds of pilot and beta tests with hundreds of users.*
-
-* Develop Android app for company's next generation advertisement platform
-	* User data AES encryption developed in native Android.
-	* Device IMEI based user/email registration
-	* GPS tracking
-	* User phone interaction capture such as picking up/putting down phone, phone taken out/put into pocket and etc.
-	* User ad interaction tracking to provide feedback for advertisers.
-	* Nightly user side ad content refreshing
-* Develop backend application for Android app using Python Flask, Apache HTTP.
+* Secure user data with AES encryption
+* Tracking app usage using GPS, hand gesture and motion sensor. 
+* Ad selection engine based on user's behaviour and preference
 * Support database developer to build and maintain PostgreSQL database
 
-*Web advertisement analytic portal backend development*
+*Advertisement analytic portal backend*
 
-* Design and develop backend python library to provide real time advertisement user data for web advertisement analytics portal.
-* Process user behavior and ad performance data to generate advertisement analytic report.
+* Designed and developed backend python library to provide quasi real time user and ad interaction data.
+* Processed user behaviour data to generate advertisement analytic report.
 
-*Video analysis engine backend development*
+*Video analysis engine backend*
 
-* Design and developed python library to support machine learning analysis on video files and web front end data presentation.
-	* SQLAlchemy and PostgreSQL
-	* ML result data noise handling using low-pass filter and moving average smoothing.
-
+* Integrated machine learning framework to detect objects and people in videos
+* Developed backend library to present data for frontend engineer
 * Create docker files and scripts to enable containerization and easy deployment on web servers and demo computers.
-	* Nginx, docker
 
 *Content Filtering Proxy Service*
 
-* Add URL filtering ICAP service to Squid proxy
-* URL filtering using image analysis and text analysis to block NSFW content
+* Developed ICAP service for Squid proxy to provide value added service
+* Utilizing image and text analysis to block NSFW content
 
 *Intelligence IP Camera Surveillance System*
 
-* Add intelligence to existing IP camera surveillance system
-* Performs realtime facial recognition and object recognition on IP Camera RTSP feed 
-* Using websocket to stream live recognition results to client
-* Live stream broadcast service to receive IP Camera RTSP feed from client’s local network
+* Developed Django service to analyze live camera stream to detect objects and recognize people
+* Using web socket to stream live recognition results to client
 
+*FlipTacToe Game*
+
+* Design API between frontend and backend
+* Developed backend game engine service
+* Backend unit test
 
 Other Experience
 --------------------
@@ -83,17 +76,15 @@ Other Experience
 2014 - 2016
 :	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
 
-**C# .NET, WPF, Microsoft Access Database**
+*C# .NET, WPF, Microsoft Access Database*
 
-* Developed analysis result processing using C# to stream line engineering and result presentation.
-
-* Piping stress analysis.
+* Developed tools to analyze data from Microsoft Access Database and present engineering results.
 
 
 **OneBus**
-:   Maps POI search optimized for bus riders. https://github.com/hazelement/OneBus.
+:   Maps POI search optimized for bus riders. 
 
-**Python, HTML, CSS, JS, Swift**
+*Python, HTML, CSS, JS, Swift*
 
 * Consumes GTFS data from transit agencies
 * Geo-location based POI searching algorithm
