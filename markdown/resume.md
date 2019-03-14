@@ -18,19 +18,19 @@ Education
 Skills
 ------
 
-* Architectural Pattern: Model–view–viewmodel (MVVM), Repository Pattern
 * Methodology: Object-Oriented Programming, Agile, Rapid Application Development
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * Machine Learning: Facial Recognition, Object Detection
+* Architectural Pattern: Repository Pattern, Model–view–viewmodel (MVVM)
 
 Tools
 -----
 
-* Framework: Flask, Django, SQLAlchemy
-* Backend software: docker, Apache HTTP, NGINX, MySQL, PostgresSQL, Let's Encrypt
+* Framework: Flask, Django, SQLAlchemy, numpy, pandas, sklearn, scipy
+* Backend software: Docker, Kubernetes, Apache HTTP, NGINX, MySQL, PostgresSQL
 * IDE: PyCharm, Android Studio, XCode, VSCode
 * OS: OSX, Linux (ubuntu, Centos), Windows
-* Machine learning tools: pandas, sklearn, YoloV3, Monet, dlib, OpenCV, tensorflow
+* Machine learning tools: YoloV3, Mxnet, dlib, OpenCV, tensorflow
 
 Related Experience
 ----------
@@ -65,6 +65,12 @@ Related Experience
 
 * Developed Django service to analyze live camera stream to detect objects and recognize people
 * Using web socket to stream live recognition results to client
+
+*Time of Arrival (TOA)*
+
+* Android app development
+* Apply data analytics mythology to improve GPS location accuracy
+* Developed backend service to handle user to user handshakes and real time location updates
 
 *FlipTacToe Game*
 
