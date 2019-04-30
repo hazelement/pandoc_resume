@@ -1,10 +1,8 @@
 Harry Zheng
 ============
-
 ----
 
 > <harry.zheng@outlook.com> • (403)918-0829 • Calgary, Alberta, Canada
-> 
 > https://github.com/hazelement
 
 ----
@@ -13,7 +11,7 @@ Skills
 ------
 Object-Oriented Analysis, Design and Development / Relational Database Systems
 
-* Innovative software engineer always strives to solve problems and satisfies customer requirements
+* Innovative software engineer always strives to deliver solution from concept to deployment
 * Experience in development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications
 * Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.
 
@@ -21,8 +19,8 @@ Tools
 -----
 
 * Methodology: Object-Oriented Programming, Agile, Rapid Application Development
-* Framework:Django, Flask, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy
-* Back-end software: Docker, Apache HTTP, NGINX, MySQL, PostgresSQL, Let's Encrypt
+* Framework:Django, Flask, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy, LocustIO
+* Back-end software: Docker, Apache HTTP, NGINX, Redis, MySQL, PostgresSQL, Let's Encrypt
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
 * OS: OSX, Unix (Ubuntu, Centos), Windows
@@ -32,7 +30,7 @@ Related Experience
 ----------
 
 2016 - Present
-:	**Asica Limited**, Software Engineer, Calgary, Alberta
+:	**ASICA Limited**, Software Engineer, Calgary, Alberta
 
 **Achievement Highlights:**
 
@@ -42,17 +40,6 @@ Related Experience
 
 **Featured Projects:**
 
-*Time of Arrival (TOA)*
-
-* Developed Android App that facilitates GPS location sharing among 2 or more users
-* Designed and developed back end and database to facilitate maintenance user hand shakes and real time location updates using Django and Django Channels
-* Maintained database management using (object-relational mapping) ORM 
-* Optimized backend service using LRU cache
-* Implemented token based authentication using JWT on front end and back end
-* Solved indoor GPS location flickering problem by using data analytics mythology by combining other sensor data such as pedometer, compass sensor, etc.
-* Containerized service using Docker for easy deployment and maintenance overhead reduction
-* Ensured CI/CD by implementing backend unit test
-
 *Advertisement Android app and backend service*
 
 * Developed Android app that communicates with back end through RESTful API using JSON data
@@ -60,8 +47,20 @@ Related Experience
 * Created ad tracking system using GPS, finger gestures and motion sensors
 * Implemented user data encryption using AES
 * Optimized backend service using LRU cache in Flask
-* Solved loading issue by creating a load balancing system using NGINX
+* Performed stress tests on backend to prepare beta deployment
+* Solved server loading issue by creating a load balancing system using NGINX
 * Designed and developed back-end service to provide quasi real time ad performance evaluation engine using Flask
+
+*Time of Arrival (TOA)*
+
+* Developed Android App that facilitates GPS location sharing among 2 or more users
+* Designed and developed back end and database to facilitate user hand shakes and real time location updates using Django Channels
+* Maintained database management using ORM (object-relational mapping) 
+* Optimized backend service using LRU cache
+* Implemented token based authentication using JWT on front end and back end
+* Solved indoor GPS location flickering problem by using data analytics mythology by combining other sensor data such as pedometer, compass sensor, etc.
+* Containerized service using Docker for easy deployment and maintenance overhead reduction
+* Ensured CI/CD by implementing backend unit test
 
 *Intelligence IP Camera Surveillance System*
 
@@ -104,15 +103,14 @@ Other Experience
 --------------------
 
 **OneBus**
-:   Map POI search optimized for bus riders. 
+:   Map POI search optimized for bus riders
 
-*Python, HTML, CSS, JS, Swift*
+https://github.com/hazelement/onebus
 
-* Implemented system to process GTFS data from transit agencies into database
-* Designed back end API data structure
-* Developed Geo-location based POI searching algorithm using scipy and numpy
-* Developed web based front end using HTML, CSS and JavaScript
-* Developed iOS front end using Swift
+* Designed and developed RESTful backend using Django
+* Implemented algorithm to process GTFS data from transit agencies into Postgres database
+* Implemented geo-location based POI searching algorithm using scipy and numpy
+* Developed web based front end using HTML, CSS and JavaScript, and iOS front end using Swift
 
 
 2014 - 2016
