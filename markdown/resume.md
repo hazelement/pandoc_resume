@@ -9,12 +9,6 @@ Harry Zheng
 
 ----
 
-Education
----------
-
-2009 - 2014
-:   **BSc, Mechanical Engineering**, University of Calgary
-
 Skills
 ------
 
@@ -26,60 +20,88 @@ Skills
 Tools
 -----
 
-* Framework: Flask, Django, SQLAlchemy, numpy, pandas, sklearn, scipy
-* Backend software: Docker, Kubernetes, Apache HTTP, NGINX, MySQL, PostgresSQL
+* Framework: Flask, Django, Django Channels, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy
+* Back-end software: Docker, Kubernetes, Apache HTTP, NGINX, MySQL, PostgresSQL
 * IDE: PyCharm, Android Studio, XCode, VSCode
 * OS: OSX, Linux (ubuntu, Centos), Windows
 * Machine learning tools: YoloV3, Mxnet, dlib, OpenCV, tensorflow
+* Other: Let's Encrypt
 
 Related Experience
 ----------
 
-2016 - Now
-:	**Startup company**, software engineer, Calgary, Alberta
+2016 - Present
+:	**Asica Limited**, Software Engineer, Calgary, Alberta
 
-*Advertisement Android app and backend*
+*Time of Arrival (TOA) Android App*
 
-* Secure user data with AES encryption
-* Tracking app usage using GPS, hand gesture and motion sensor. 
-* Ad selection engine based on user's behaviour and preference
-* Support database developer to build and maintain PostgreSQL database
+* Developed Android App that facilitates GPS location sharing among 2 or more users
+* Designed and developed back end and database to facilate user hand shakes and real time location updates using Django and Django Channels
+* Maintained database management using (object-relational mapping) ORM 
+* Optimized backend service using LRU cache
+* Implemented token based authentication using JWT on front end and back end
+* Solved indoor GPS location flickering problem by using data analytics mythology by combining other sensor data such as pedometer, compass sensor, etc.
+* Containerized service using Docker for easy deployment and maintanence overhead reduction
+* Ensured CI/CD by implementing backend unit test
 
-*Advertisement analytic portal backend*
+*Advertisement Android app and backend service*
 
-* Designed and developed backend python library to provide quasi real time user and ad interaction data.
-* Processed user behaviour data to generate advertisement analytic report.
+* Developed Android app that communicates with back end through RESTful API using JSON data
+* Secured server to app communication using SSL public key pinning
+* Created ad tracking system using GPS, finger gestures and motion sensors
+* Implemented user data encryption using AES
+* Optimized backend service using LRU cache in Flask
+* Solved loading issue by creating a load balacing system using nginx
+* Designed and developed back-end service to provide quasi real time ad performance evaluation engine using Flask
 
 *Video analysis engine backend*
 
-* Integrated machine learning framework to detect objects and people in videos
-* Developed backend library to present data for frontend engineer
-* Create docker files and scripts to enable containerization and easy deployment on web servers and demo computers.
-
-*Content Filtering Proxy Service*
-
-* Developed ICAP service for Squid proxy to provide value added service
-* Utilizing image and text analysis to block NSFW content
+* Designed Postgres database structure to store video meta data and AI detection results
+* Utilized YoloV3 and dlib machine learning framework to detect objects and recognize people in videos
+* Worked with front end engineer to developed library to retrieve video data from database
+* Designed micro-service components for containerization
+* Containerized front end, back end, and database as microservice using Dockerfile and docker-compose
 
 *Intelligence IP Camera Surveillance System*
 
-* Developed Django service to analyze live camera stream to detect objects and recognize people
-* Using web socket to stream live recognition results to client
+* Designed back end architecture to support up to 18 concurrent camera streams analysis in real time
+* Solved scaling issue using Factory, Repository and Singleton design pattern
+* Developed motion detection module using Pillow and Numpy
+* Solved loading issue by creating a messaging backend using HTTP websocket in Django Channels
+* Containerized service using Docker for easy deployment and maintanence overhead reduction
 
-*Time of Arrival (TOA)*
+*Content Filtering Proxy Service*
 
-* Android app development
-* Apply data analytics mythology to improve GPS location accuracy
-* Developed backend service to handle user to user handshakes and real time location updates
+* Developed ICAP service back end to communicate with Squid proxy service
+* Implemented back end system in ICAP service to perform content analysis
+* Utilized image recognition and natural language processing to identify and block NSFW content
+* Designed and implemented memory and disk caching system to improve performance in ICAP service
+* Containerized service using Docker for easy deployment and maintanence overhead reduction
 
 *FlipTacToe Game*
 
-* Design API between frontend and backend
-* Developed backend game engine service
-* Backend unit test
+* Designed RESTful and websocket API between front end and back end 
+* Developed front end game engine using Javascript ES6
+* Implemented backend service to perform gaming matching among users
+* Solved real time game play issue between players by using websocket messaing system in Django Channels
+* Secured front end to back end communication using JWT in token based authentication
+* Ensured CI/CD by implementing backend unit test
+* Containerized service using Docker for easy deployment and maintanence overhead reduction
 
 Other Experience
 --------------------
+
+**OneBus**
+:   Map POI search optimized for bus riders. 
+
+*Python, HTML, CSS, JS, Swift*
+
+* Implemented system to process GTFS data from transit agencies into database
+* Designed back end API data structure
+* Developed Geo-location based POI searching algorithm using scipy and numpy
+* Developed web based front end using HTML, CSS and JavaScript
+* Developed iOS front end using Swift
+
 
 2014 - 2016
 :	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
@@ -89,14 +111,12 @@ Other Experience
 * Developed tools to analyze data from Microsoft Access Database and present engineering results.
 
 
-**OneBus**
-:   Maps POI search optimized for bus riders. 
 
-*Python, HTML, CSS, JS, Swift*
+Education
+---------
 
-* Consumes GTFS data from transit agencies
-* Geo-location based POI searching algorithm
-* Web and iOS based front end
+2009 - 2014
+:   **BSc, Mechanical Engineering**, University of Calgary
 
 
 Interests
