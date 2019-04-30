@@ -56,7 +56,7 @@ Related Experience
 * Developed Android App that facilitates GPS location sharing among 2 or more users
 * Designed and developed back end and database to facilitate user hand shakes and real time location updates using Django Channels
 * Maintained database management using ORM (object-relational mapping) 
-* Optimized backend service using LRU cache
+* Optimized backend service with caching user Redis
 * Implemented token based authentication using JWT on front end and back end
 * Solved indoor GPS location flickering problem by using data analytics mythology by combining other sensor data such as pedometer, compass sensor, etc.
 * Containerized service using Docker for easy deployment and maintenance overhead reduction
