@@ -11,15 +11,15 @@ Skills
 ------
 Object-Oriented Analysis, Design and Development / Relational Database Systems
 
-* Innovative software engineer always strives to deliver solution from concept to deployment
+* Innovative software engineer always strives to deliver solutions from concept to deployment
 * Experience in development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications
-* Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.
+* Known for excellent troubleshooting skills, able to analyze code and engineer well-researched, cost-effective and responsive solutions.
 
 Tools
 -----
 
-* Methodology: Object-Oriented Programming, Agile, Rapid Application Development
-* Framework:Django, Flask, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy, LocustIO
+* Methodology: Object-Oriented Programming, Agile, Rapid Application Development, UML Digram
+* Framework: Django, Flask, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy, LocustIO
 * Back-end software: Docker, Apache HTTP, NGINX, Redis, MySQL, PostgresSQL, Let's Encrypt
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
@@ -35,7 +35,7 @@ Related Experience
 **Achievement Highlights:**
 
 * Excelled in rapid application development and prototyping to meet customer satisfaction
-* Cooperated with business team to define project milestones using the Agile Method
+* Cooperated with business team to define project milestones using Agile Method
 * Introduced and designed micro-service infrastructure to reduce development cycle and maintenance overhead using docker containerization
 
 **Featured Projects:**
@@ -43,6 +43,7 @@ Related Experience
 *Advertisement Android app and backend service*
 
 * Developed Android app that communicates with back end through RESTful API using JSON data
+* Solved design issues with UI team to ensure smooth user experience
 * Secured server to app communication using SSL public key pinning
 * Created ad tracking system using GPS, finger gestures and motion sensors
 * Implemented user data encryption using AES
@@ -64,8 +65,8 @@ Related Experience
 
 *Intelligence IP Camera Surveillance System*
 
-* Designed back end architecture to support up to 18 concurrent camera streams analysis in real time
-* Solved scaling issue using Factory, Repository and Singleton design pattern
+* Designed back end architecture to support up to 18 concurrent real time camera streams analysis using Django Channels
+* Solved scaling issue using Factory, Repository and Singleton Design Patterns
 * Developed motion detection module using Pillow and Numpy
 * Solved loading issue by creating a messaging backend using HTTP web socket in Django Channels
 * Containerized service using Docker for easy deployment and maintenance overhead reduction
