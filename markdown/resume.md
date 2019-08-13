@@ -3,7 +3,8 @@ Harry Zheng
 ----
 
 > <harry.zheng@outlook.com> • (403)918-0829 • Calgary, Alberta, Canada
-> https://github.com/hazelement
+
+> https://hazelement.github.io/
 
 ----
 
@@ -19,12 +20,12 @@ Tools
 -----
 
 * Methodology: Object-Oriented Programming, Agile, Rapid Application Development, UML Digram
-* Framework: Django, Flask, SQLAlchemy, Pillow, numpy, pandas, sklearn, scipy, LocustIO
-* Back-end software: Docker, Apache HTTP, NGINX, Redis, MySQL, PostgresSQL, Let's Encrypt
+* Framework: Django, Flask, SQLAlchemy, Pillow, numpy, pandas, Celery, LocustIO
+* Back-end software: Docker, Jenkins, Apache HTTP, NGINX, Redis, RabbitMQ, MySQL, PostgresSQL, Let's Encrypt
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
 * OS: OSX, Unix (Ubuntu, Centos), Windows
-* Machine learning tools: YoloV3, Mxnet, dlib, OpenCV, tensorflow
+* Machine learning tools: sklearn, script, YoloV3, Mxnet, dlib, OpenCV, tensorflow
 
 Related Experience
 ----------
@@ -36,11 +37,20 @@ Related Experience
 
 * Excelled in rapid application development and prototyping to meet customer satisfaction
 * Cooperated with business team to define project milestones using Agile Method
-* Introduced and designed micro-service infrastructure to reduce development cycle and maintenance overhead using docker containerization
+* Introduced and designed CI/CD micro-service infrastructure to reduce development cycle and maintenance overhead using docker
 
 **Featured Projects:**
 
-*Advertisement Android app and backend service*
+*AI NSFW Filtering Web Proxy Service*
+
+* Researched and developed proxy content filtering service based on ICAP protocol
+* Solved neural network scaling issue using Celery distributed task queue system
+* Containerized all services components for future CI/CD architecture
+* Designed and constructed automated build system using Jenkins and self hosted docker registry
+* Worked with business team to prepare testing plan for QA testers in Hong Kong
+
+
+<!--*Advertisement Android app and backend service*
 
 * Developed Android app that communicates with back end through RESTful API using JSON data
 * Solved design issues with UI team to ensure smooth user experience
@@ -50,26 +60,27 @@ Related Experience
 * Optimized backend service using LRU cache in Flask
 * Performed stress tests on backend to prepare beta deployment
 * Solved server loading issue by creating a load balancing system using NGINX
-* Designed and developed back-end service to provide quasi real time ad performance evaluation engine using Flask
+* Designed and developed back-end service to provide quasi real time ad performance evaluation engine using Flask-->
+
+*Intelligence IP Camera Surveillance System*
+
+* Designed back end architecture to support up to 18 concurrent live camera streams analysis using Django Channels
+* Integrated facial recognition and object recognition in live stream analysis
+* Increased system capacity using motion based camera frame analysis 
+* Reduced server loading and response time by creating a messaging backend using HTTP web socket in Django Channels
+* Containerized service using Docker for easy deployment and maintenance
+* Facilitated meetings with client to ensure customer satisfaction
 
 *Time of Arrival (TOA)*
 
 * Developed Android App that facilitates GPS location sharing among 2 or more users
 * Designed and developed back end and database to facilitate user hand shakes and real time location updates using Django Channels
 * Maintained database management using ORM (object-relational mapping) 
-* Optimized backend service with caching user Redis
+* Optimized backend service using Redis caching
 * Implemented token based authentication using JWT on front end and back end
-* Solved indoor GPS location flickering problem by using data analytics mythology by combining other sensor data such as pedometer, compass sensor, etc.
-* Containerized service using Docker for easy deployment and maintenance overhead reduction
+* Solved indoor GPS location flickering problem by using data analytics mythology by combining readings from other sensors such as pedometer, compass sensor, etc.
+* Containerized service using Docker for easy deployment and maintenance
 * Ensured CI/CD by implementing backend unit test
-
-*Intelligence IP Camera Surveillance System*
-
-* Designed back end architecture to support up to 18 concurrent real time camera streams analysis using Django Channels
-* Solved scaling issue using Factory, Repository and Singleton Design Patterns
-* Developed motion detection module using Pillow and Numpy
-* Solved loading issue by creating a messaging backend using HTTP web socket in Django Channels
-* Containerized service using Docker for easy deployment and maintenance overhead reduction
 
 <!--*Video analysis engine backend*
 
@@ -104,13 +115,13 @@ Other Experience
 --------------------
 
 **OneBus**
-:   Map POI search optimized for bus riders
+:   Map POI search optimized for bus riders (personal project)
 
 https://github.com/hazelement/onebus
 
 * Designed and developed RESTful backend using Django
 * Implemented algorithm to process GTFS data from transit agencies into Postgres database
-* Implemented geo-location based POI searching algorithm using scipy and numpy
+* Designed algorithm to perform geo based POI search with public transit availability constraint
 * Developed web based front end using HTML, CSS and JavaScript, and iOS front end using Swift
 
 
