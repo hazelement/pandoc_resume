@@ -26,6 +26,7 @@ Tools
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
 * OS: OSX, Unix (Ubuntu, Centos), Windows
 * Machine learning tools: sklearn, script, YoloV3, Mxnet, dlib, OpenCV, tensorflow
+* Cloud platforms: AWS, OpenStack
 
 Related Experience
 ----------
