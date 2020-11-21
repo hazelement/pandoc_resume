@@ -30,8 +30,15 @@ Tools
 
 Related Experience
 ----------
+2019 - Present
+:	**Amazon**, Software Development Engineer II, Vancouver, BC
 
-2016 - Present
+* Actively identifing and resolving existing system flaws
+* Design and develop new features for existing AWS systems
+* Leading security review on new projects
+* Collaborate with team and external teams to ensure project delivery 
+
+2016 - 2019
 :	**ASICA Limited**, Software Engineer, Calgary, Alberta
 
 **Achievement Highlights:**
