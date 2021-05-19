@@ -25,10 +25,10 @@ Tools
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
 * OS: OSX, Unix (Ubuntu, Centos), Windows
-* Machine learning tools: sklearn, script, YoloV3, Mxnet, dlib, OpenCV, tensorflow
-* Cloud platforms: AWS, OpenStack
+* Machine learning tools: sklearn, scipy, YoloV3, Mxnet, dlib, OpenCV, tensorflow
+* Cloud (AWS) platform: S3, Lambda, Step Functions, DynamoDB, Cloudformation, Cloudwatch, Cloudtrail, EC2, IAM, System Manager, RDS, etc. 
 
-Related Experience
+Work Experience
 ----------
 2019 - Present
 :	**Amazon Web Services**, Software Development Engineer II, Vancouver, BC
@@ -122,7 +122,7 @@ Related Experience
 Other Experience
 --------------------
 
-**OneBus**
+<!-- **OneBus**
 :   Map POI search optimized for bus riders (personal project)
 
 https://github.com/hazelement/onebus
@@ -130,11 +130,11 @@ https://github.com/hazelement/onebus
 * Designed and developed RESTful backend using Django
 * Implemented algorithm to process GTFS data from transit agencies into Postgres database
 * Designed algorithm to perform geo based POI search with public transit availability constraint
-* Developed web based front end using HTML, CSS and JavaScript, and iOS front end using Swift
+* Developed web based front end using HTML, CSS and JavaScript, and iOS front end using Swift -->
 
 
 2014 - 2016
-:	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
+:	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta -->
 
 
 Education
