@@ -20,7 +20,7 @@ Tools
 -----
 
 * Methodology: Object-Oriented Programming, Agile, Rapid Application Development, UML Digram
-* Framework: Django, Flask, SQLAlchemy, Pillow, numpy, pandas, Celery, LocustIO
+* Framework: Django, Flask, SQLAlchemy, Pillow, numpy, pandas, Celery, LocustIO, Spring, Dagger
 * Back-end software: Docker, Jenkins, Apache HTTP, NGINX, Redis, RabbitMQ, MySQL, PostgresSQL, Let's Encrypt
 * Programming Language: Python, Java, SQL, JavaScript, HTML, CSS, C, C++, C#
 * IDE: PyCharm, Android Studio, XCode, VSCode, Sublime Text 3
@@ -31,7 +31,7 @@ Tools
 Related Experience
 ----------
 2019 - Present
-:	**Amazon**, Software Development Engineer II, Vancouver, BC
+:	**Amazon Web Services**, Software Development Engineer II, Vancouver, BC
 
 * Actively identifing and resolving existing system flaws
 * Design and develop new features for existing AWS systems
