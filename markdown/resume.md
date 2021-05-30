@@ -143,11 +143,11 @@ Education
 2009 - 2014
 :   **BSc, Mechanical Engineering**, University of Calgary
 
-**Relevant courses**
+<!-- **Relevant courses**
 
 * Coursera Algorithms Part 1, Princeton University
 * Coursera Algorithms Part 2, Princeton University
-* Coursera Machine Learning, Stanford University
+* Coursera Machine Learning, Stanford University -->
 
 <!--Interests
 ----------------------------------------
