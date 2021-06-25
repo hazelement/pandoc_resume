@@ -37,6 +37,7 @@ Work Experience
 * Design and develop new features for existing AWS systems
 * Leading security review on new projects
 * Collaborate with team and external teams to ensure project delivery 
+* Lead and mentor other SDEs to design and implement features required for flagship projects
 
 2016 - 2019
 :	**ASICA Limited**, Software Engineer, Calgary, Alberta
@@ -116,11 +117,16 @@ Work Experience
 * Ensured CI/CD by implementing backend unit test
 * Containerized service using Docker for easy deployment and maintenance overhead reduction-->
 
+2014 - 2016
+:	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
 
+* Developed windows desktop application using C# to collect and process piping analysis software data files.
+* Designed and implemented user friendly UI to present data from piping software.
+* Implemented automated software to generate engineering reports based on data collected.
 
-
+<!-- 
 Other Experience
---------------------
+-------------------- -->
 
 <!-- **OneBus**
 :   Map POI search optimized for bus riders (personal project)
@@ -131,10 +137,6 @@ https://github.com/hazelement/onebus
 * Implemented algorithm to process GTFS data from transit agencies into Postgres database
 * Designed algorithm to perform geo based POI search with public transit availability constraint
 * Developed web based front end using HTML, CSS and JavaScript, and iOS front end using Swift -->
-
-
-2014 - 2016
-:	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta -->
 
 
 Education
