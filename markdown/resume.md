@@ -120,9 +120,9 @@ Work Experience
 2014 - 2016
 :	**PVP Engineering Ltd**, Piping Engineer EIT, Calgary, Alberta
 
-* Developed windows desktop application using C# to collect and process piping analysis software data files.
-* Designed and implemented user friendly UI to present data from piping software.
-* Implemented automated software to generate engineering reports based on data collected.
+* Developed Windows desktop application using C# to collect and process piping analysis software data.
+* Designed and implemented UI to present data to piping engineers.
+* Implemented automated software to generate engineering reports based on user input and data collected.
 
 <!-- 
 Other Experience
