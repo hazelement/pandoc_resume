@@ -33,7 +33,7 @@ Work Experience
 2019 - Present
 :	**Amazon Web Services**, Software Development Engineer II, Vancouver, BC
 
-* Actively identifing and resolving existing system flaws
+* Actively identifying and resolving existing system flaws
 * Design and develop new features for existing AWS systems
 * Leading security review on new projects
 * Collaborate with team and external teams to ensure project delivery 
